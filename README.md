@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/cristopher-adan-salazar-escobedo-356930236/" target="_blank">
+    <a href="https://www.linkedin.com/in/cristopher-salazar-665831236/" target="_blank">
         <img src="https://img.shields.io/badge/Linkedin-go-0A66C2?style=for-the-badge&logo=Linkedin"
              alt="Linkedin badge" />
     </a>
