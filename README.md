@@ -4,13 +4,12 @@
     <h3 align="center"> I am a Software student, I have experience as Frontend, maintenance and prevention of computer equipment. I am learning Cyber Security because I           really like that topic. </h3>
 </div>
 
-<div> 
-  <link rel="stylesheet" href="http://fontawesome.io/assets/font-awesome/css/font-awesome.css">
-    <a style="text-decoration:none;font-size:40px;text-shadow:-1px 1px 5px #494949;color:#00897B;" href="#link of your profile#">
-        <i class="fa fa-linkedin-square" aria-hidden="true">
-        </i>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/cristopher-adan-salazar-escobedo-356930236/" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-go-0A66C2?style=for-the-badge&logo=Linkedin"
+             alt="Linkedin badge" />
     </a>
-</div>
+</div> 
 <!--
 **CristopherSa9/CristopherSa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
