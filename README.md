@@ -37,13 +37,11 @@
             width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
             width="40" height="40"/>&nbsp;
-        <img src="" title="" alt=""
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="UBUNTU" alt="UBUNTU"
             width="40" height="40"/>&nbsp;
-        <img src="" title="" alt=""
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE"
             width="40" height="40"/>&nbsp;
-        <img src="" title="" alt=""
-            width="40" height="40"/>&nbsp;
-        <img src="" title="" alt=""
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA"
             width="40" height="40"/>&nbsp;
     </div>
  
