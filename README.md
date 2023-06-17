@@ -20,7 +20,8 @@
 
 ---
 
-### About me:
+### ![image](https://github.com/CristopherSa9/CristopherSa9/assets/79192560/a5649537-d59e-41a5-9ca5-51b8f971301a)
+About me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
