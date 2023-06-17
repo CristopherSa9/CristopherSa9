@@ -29,9 +29,21 @@
 <div align="left">
     <h3> 🧰 Lenguages and Tools: </h3>
     <div>
-        <image src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
             width="40" height="40"/>&nbsp;
-        <image src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL"
+            width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT"
+            width="40" height="40"/>&nbsp;
+        <img src="" title="" alt=""
+            width="40" height="40"/>&nbsp;
+        <img src="" title="" alt=""
+            width="40" height="40"/>&nbsp;
+        <img src="" title="" alt=""
+            width="40" height="40"/>&nbsp;
+        <img src="" title="" alt=""
+            width="40" height="40"/>&nbsp;
+        <img src="" title="" alt=""
             width="40" height="40"/>&nbsp;
     </div>
  
