@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/gmail-send-EA4335?style=for-the-badge&logo=gmail" alt="gmail badge" />
 </a>
 </div> 
-----
+---
 
 Here are some ideas to get you started:
 
