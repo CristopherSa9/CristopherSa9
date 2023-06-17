@@ -31,6 +31,8 @@
     <div>
         <image src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
             width="40" height="40"/>&nbsp;
+        <image src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL"
+            width="40" height="40"/>&nbsp;
     </div>
  
 
