@@ -17,8 +17,7 @@
     <img src="https://img.shields.io/badge/gmail-send-EA4335?style=for-the-badge&logo=gmail" alt="gmail badge" />
 </a>
 </div> 
-<!--
-**CristopherSa9/CristopherSa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
 Here are some ideas to get you started:
 
@@ -30,4 +29,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
