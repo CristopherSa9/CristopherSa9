@@ -25,3 +25,12 @@
 - 💻 I like to support and maintain the computer equipment.
 - ☁️ I'm currently learning about cloud security and Frontend.
 - 💬 Ask me about Operating Systems and Computer Components.
+
+<div align="left">
+    <h3> 🧰 Lenguages and Tools: </h3>
+    <div>
+        <image src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
+            width="40" height="40"/>&nbsp;
+    </div>
+ 
+
